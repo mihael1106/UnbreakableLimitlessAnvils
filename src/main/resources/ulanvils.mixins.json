@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.miki.ulanvils.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "ulanvils.refmap.json",
+  "mixins": [
+    "MixinAnvilMenu",
+    "MixinAnvilScreen"
+  ],
+  "minVersion": "0.8"
+}
